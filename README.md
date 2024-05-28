@@ -10,16 +10,24 @@ See the website listed above.
 
 ## Releases
 
+Latest stable release: 1.1.0
+
+[clj](https://clojure.org/guides/getting_started) dependency information:
+```clojure
+io.github.clojure/clr.core.logic {:git/tag "v1.1.0" :git/sha "46b6ed4"}
+```
+
+
 Nuget reference:
 
 ```
-    PM> Install-Package clojure.core.logic -Version 1.0.1 
+    PM> Install-Package clojure.core.logic -Version 1.1.0
 ```
 	
 Leiningen/Clojars reference:
 
 ```
-   [org.clojure.clr/core.logic "1.0.1"]
+   [org.clojure.clr/core.logic "1.1.0"]
 ```
 
 ## License
