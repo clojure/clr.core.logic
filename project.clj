@@ -1,4 +1,4 @@
-(defproject org.clojure.clr/core.logic "1.0.1"
+(defproject org.clojure.clr/core.logic "1.1.0"
   :description "A port of core.logic to ClojureCLR"
   :url "https://github.com/clojure/clr.core.logic"
   :license {:name "Eclipse Public License"

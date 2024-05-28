@@ -12,12 +12,12 @@
 		<AssemblyTitle>clojure.core.logic</AssemblyTitle>
 		<Authors>ClojureCLR contributors</Authors>
 		<Description>A port of core.logic to ClojureCLR.</Description>
-		<Copyright>Copyright © Rich Hickey, David Nolen, and ClojureCLR contributors 2022</Copyright>
+		<Copyright>Copyright © Rich Hickey, David Nolen, and ClojureCLR contributors 2024</Copyright>
 		<PackageLicenseExpression>EPL-1.0</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/clojure/clojure.tools.namesapce</RepositoryUrl>
 		<Company>ClojureCLR contributors</Company>
 		<PackageTags>Clojure;ClojureCLR</PackageTags>
-		<Version>1.0.1</Version>
+		<Version>1.1.0</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
